@@ -16,6 +16,7 @@ module.exports = {
         missionBox: '#192233',
         registerGold: '#A17C30',
         moduleGold: '#C2963A',
+        cwhite: '#FFFFFF',
       },
       keyframes: {
         slideFadeIn: {
