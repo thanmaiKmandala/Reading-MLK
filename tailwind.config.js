@@ -12,7 +12,10 @@ module.exports = {
       fill: ['hover', 'focus'], // Enables `hover` and `focus` variants for `fill`
       stroke: ['hover', 'focus'],
       colors: {
-        customBlue: '#2d3748',
+        customBlue: '#123A6B',
+        missionBox: '#192233',
+        registerGold: '#A17C30',
+        moduleGold: '#C2963A',
       },
       keyframes: {
         slideFadeIn: {
