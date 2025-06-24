@@ -1,3 +1,21 @@
+> 📌 **Note:** This is a personal fork of the original [ReadingMLK](https://github.com/UTDallasEPICS/Reading-MLK) project.  
+> The following section outlines my contributions to the project while I was an active developer on the team.
+
+### 💼 My Role in the ReadingMLK Project
+
+As a contributor to the original ReadingMLK (Reading Huddle) project at UT Dallas EPICS, I was responsible for both frontend and backend development tasks, ensuring a smooth and maintainable user experience across the stack.
+
+- 🧭 **Frontend Development**: Created and refined pages for parent and teacher registration using Vue.js, with a strong emphasis on clean UI using Tailwind CSS and Pug templating.
+- 🔗 **Navigation UX**: Unified and simplified user flow between registration paths by implementing a central landing page with interactive hover effects and proper routing via `nuxt-link`.
+- 🧹 **Codebase Clean-up**: Reorganized the Vue component structure, removed deprecated features (e.g., admin-only "create student" button), and maintained consistent naming conventions across files and routes.
+- 🗄️ **Backend Integration & Database Work**: Contributed to database schema design and implementation for storing user data (parents, students, and teachers). Worked on integrating backend logic to handle user form submissions, validated data before storage, and ensured consistency with the PostgreSQL database layer.
+- 🛠️ **Data Handling Improvements**: Helped with debugging data flow from frontend to backend endpoints, and updated backend logic to ensure accurate creation and linking of user records in the database based on form inputs.
+- 🐳 **DevOps Support**: Collaborated on Docker configuration by modifying the `docker-compose.yml` file to support the `reading-mlk` service, enabling smoother containerized development and testing environments.
+
+> Even though I was later removed as a GitHub collaborator, this fork contains my verified commits and accurately reflects my contributions to the original project.
+
+
+
 # 📚 **FoMLK: Reading Huddle App** *(Rae Phillips)*
 
 ## 📖 **Table of Contents**
